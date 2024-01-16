@@ -1,0 +1,2 @@
+This notebook uses PySulfSat to model batch melting  - it also loads in some Thermocalc inputs. We wont talk about these today, but if you want an example, look here:
+https://petthermotools.readthedocs.io/en/latest/Examples/MeltingTests/AdiabaticMeltExample.html
